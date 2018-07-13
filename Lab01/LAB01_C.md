@@ -19,13 +19,7 @@ three forces (units are Newtons, or N):*
 
 1. Calculate below the components of each of the three vectors.
 
-
-
-
-2.  Calculate the vector addition of the three vectors:
-
-
-
+2.  Calculate the vector addition of the three vectors.
 
 3. Determine the counterbalance force (the force added to the three to sum
-up to zero), both in components, and magnitude-direction:
+up to zero), both in components, and magnitude-direction.
