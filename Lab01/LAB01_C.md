@@ -11,11 +11,11 @@ three forces (units are Newtons, or N):*
 
 ![](../force_table.png)
 
--300 N at 0 degrees
+- 300 N at 0 degrees
 
--200 N at 130 degrees
+- 200 N at 130 degrees
 
--500 N at 210 degrees 
+- 500 N at 210 degrees 
 
 1. Calculate below the components of each of the three vectors.
 
