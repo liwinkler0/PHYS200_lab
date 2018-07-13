@@ -1,4 +1,4 @@
-##LAB 1 C-group
+## LAB 1 C-group
 
 Partners' Names:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -9,13 +9,13 @@ Partners' Names:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 *Your job is to determine what force will counterbalance the following
 three forces (units are Newtons, or N):*
 
-[](../force_table.png)
+![](../force_table.png)
 
-*300 N at 0 degrees*
+*300 N at 0 degrees
 
-*200 N at 130 degrees*
+*200 N at 130 degrees
 
-*500 N at 210 degrees *
+*500 N at 210 degrees 
 
 1. Calculate below the components of each of the three vectors.
 
