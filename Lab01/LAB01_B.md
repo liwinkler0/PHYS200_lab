@@ -9,8 +9,9 @@
 
 ***Statement of the problem***
 
-![]( ../force_table.png){width="1.9076388888888889in"
-height="1.9076388888888889in"}*Your job is to determine what force will
+![]( ../force_table.png)
+
+*Your job is to determine what force will
 counterbalance the following three forces:*
 
 *300 N at 0 degrees*
@@ -19,7 +20,7 @@ counterbalance the following three forces:*
 
 *500 N at 210 degrees*
 
-**Method 1: **
+**Method 1:**
 
 -   Place the three forces and your solution force on the force table
     provided.
