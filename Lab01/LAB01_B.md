@@ -9,7 +9,7 @@
 
 ***Statement of the problem***
 
-![](media/image1.png){width="1.9076388888888889in"
+![](media ../force_table.png){width="1.9076388888888889in"
 height="1.9076388888888889in"}*Your job is to determine what force will
 counterbalance the following three forces:*
 
