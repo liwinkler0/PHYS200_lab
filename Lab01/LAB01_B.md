@@ -53,7 +53,7 @@ counterbalance the following three forces:*
     balanced! This test will give you a range of values for magnitude
     and angle in your solution.
 
-**Turn into Lab1 assignment area: A WORD document that includes: **
+**Turn into Lab1 assignment area: A WORD document that includes:**
 
 -   **Evaluation of the accuracy of the force table solution**
 
