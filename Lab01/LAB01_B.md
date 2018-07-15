@@ -1,4 +1,4 @@
-> **LAB 1B: Modeling with Vectors **
+> **LAB 1B: Modeling with Vectors**
 >
 > **OBJECTIVES**
 >
