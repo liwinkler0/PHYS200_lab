@@ -9,7 +9,7 @@ Partners' Names:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 *Your job is to determine what force will counterbalance the following
 three forces (units are Newtons, or N):*
 
-![](../force_table.png)
+![](./force_table.png)
 
 - 300 N at 0 degrees
 
