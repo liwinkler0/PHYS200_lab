@@ -9,7 +9,7 @@
 
 ***Statement of the problem***
 
-![]( ../force_table.png)
+![]( ./force_table.png)
 
 *Your job is to determine what force will
 counterbalance the following three forces:*
