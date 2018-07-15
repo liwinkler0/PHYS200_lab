@@ -1,4 +1,4 @@
-> LAB 0: Introduction to 3D Computer Modeling
+> **LAB 0: Introduction to 3D Computer Modeling**
 >
 > **OBJECTIVES**
 >
