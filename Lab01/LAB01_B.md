@@ -9,7 +9,7 @@
 
 ***Statement of the problem***
 
-![](media ../force_table.png){width="1.9076388888888889in"
+![]( ../force_table.png){width="1.9076388888888889in"
 height="1.9076388888888889in"}*Your job is to determine what force will
 counterbalance the following three forces:*
 
@@ -17,7 +17,7 @@ counterbalance the following three forces:*
 
 *200 N at 130 degrees*
 
-*500 N at 210 degrees *
+*500 N at 210 degrees*
 
 **Method 1: **
 
