@@ -1,4 +1,4 @@
-> **LAB 2 B: Force and Momentum **
+> **LAB 2 B: Force and Momentum**
 >
 > **OBJECTIVES**
 >
@@ -8,10 +8,9 @@
 > *•* Find correlations between different variables using graphing
 > methods
 
--   Become more familiar with the Momentum Principle
+> *•*   Become more familiar with the Momentum Principle
 
-> ![Screen shot 2014-09-03 at
-> 1](media/image1.png){width="4.697916666666667in"
+> ![](./Expt_setup.png){width="4.697916666666667in"
 > height="1.8138888888888889in"}
 
 **Equipment:**
