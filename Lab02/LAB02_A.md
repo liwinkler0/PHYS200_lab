@@ -1,10 +1,9 @@
 **LAB2 A Ideas**
 
-> ![](./Expt_setup.png){width="4.697916666666667in"
-> height="1.8138888888888889in"}
+> ![](./Expt_setup.png)
 
 **Whichever bulleted experiment was not done for B, do as A-level
-experiment. **
+experiment.**
 
 **EITHER**
 
@@ -12,7 +11,7 @@ experiment. **
     a constant weight pulling a variable cart mass? (Do a separate trial
     for each different mass you place on the cart.)
 
-OR
+**OR**
 
 -   How do position, velocity and momentum change in time when you have
     a constant cart mass being pulled by a variable pulley weight? (Do a
