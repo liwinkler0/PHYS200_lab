@@ -26,6 +26,5 @@ you have trouble here.
 
 > Extra: What might position look like?
 
-time time time
 
 How could you resolve the argument?
