@@ -1,7 +1,6 @@
 **LAB2 A Ideas**
 
-> ![Screen shot 2014-09-03 at
-> 1](media/image1.png){width="4.697916666666667in"
+> ![](./Expt_setup.png){width="4.697916666666667in"
 > height="1.8138888888888889in"}
 
 **Whichever bulleted experiment was not done for B, do as A-level
