@@ -10,9 +10,6 @@
 -   Implement the Momentum Principle and Position update to simulate
     motion in VPython
 
-> ![Macintosh HD:Users:winklerl:Desktop:Screen shot 2014-09-15 at
-> 4.55.28 PM.png](media/image1.png){width="2.802326115485564in"
-> height="1.8578248031496063in"}
 
 **Basic B-level rocket code**
 
