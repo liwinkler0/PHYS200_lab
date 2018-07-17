@@ -1,8 +1,8 @@
-> LAB 3C Animating Motion of a Rocket
+> **LAB 3C Animating Motion of a Rocket**
 >
 > C-‐level Group Questions
 >
-> Group Names: [ ]{.underline} [ ]{.underline}
+> Group Names: 
 >
 > You are working on VPython code to animate a rocket launched straight
 > up. It has a mass of 0.200 kg,
