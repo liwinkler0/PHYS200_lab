@@ -16,7 +16,7 @@ air drag.
 
 **THE DRAG EQUATION FOR DRAG FORCE: **
 
-$$[\overrightarrow{\mathbf{F}_{\mathbf{D}}}\mathbf{= -}\frac{\mathbf{\text{CAρ}}}{\mathbf{2}}\left| \overrightarrow{\mathbf{v}} \right|^{\mathbf{2}}\widehat{\mathbf{v}}]$$
+[!]$$\overrightarrow{\mathbf{F}_{\mathbf{D}}}\mathbf{= -}\frac{\mathbf{\text{CAρ}}}{\mathbf{2}}\left| \overrightarrow{\mathbf{v}} \right|^{\mathbf{2}}\widehat{\mathbf{v}}$$
 
 **EQ. 1**
 
