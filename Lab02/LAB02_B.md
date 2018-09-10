@@ -61,9 +61,9 @@ momentum
         i. Instead of trying to take data for exactly the same amount
             of time in each case, record the rate of change (slope) of
             the velocity.
-        i.  Make graphs in logger pro of the rate of change of
-            1.  velocity as a function of mass
-            2.  momentum as a function of mass.
+        i.  Make graphs in logger pro of the
+            1.  rate of change of velocity as a function of mass
+            2.  rate of change of momentum as a function of mass.
         i. Fit the theoretical relationship  between rate of change of *momentum*
            of the cart and the mass of the cart to your data.
         i. Fit the theoretical relationship  between rate of change of *velocity*
