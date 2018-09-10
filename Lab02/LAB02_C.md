@@ -5,24 +5,47 @@
 # Part 1 of 2
 
 You and a group of friends are in a heated debate brought on by a discussion
-of loading a friend’s truck with too much mass.  Liz, in the group, has been
-taking physics.  Liz argues that the truck does not need to exert more force
-to start moving when fully loaded, compared to empty.  She says that force is
-the same as momentum change over time, and she says the same force always
-creates the same momentum change in the same time.  Peter in the group says
-that can’t be right.  He has been taking physics too, and knows that it is
-harder to get a more massive object moving as fast as a less massive object if
-you apply the same force, so the truck will have to exert more force to get
-the fully loaded truck moving.
+of loading a friend’s truck with too much mass.  According to the truck
+company, the truck always provides the same amount of force (in the form of
+torque from the engine) in the same amount of time. Two of the students in the
+group are taking physics.
 
-+ Which student do you think is correct, and why? Support your argument by
-+ sketching on the axes below the result of applying the same force for the
-+ same amount of time. Feel free to use the simulator from the pre-lab to help
-+ answer the question.
+Liz argues that the truck does not need to exert more force to start moving
+when fully loaded, compared to empty.  She says that force is the same as
+momentum change over time, and she says the same force always creates the same
+momentum change in the same time.
+
+Peter says that can’t be right.  He has been taking physics too, and knows
+that it is harder to get a more massive object moving as fast as a less
+massive object if you apply the same force, so the truck will have to exert
+more force to get the fully loaded truck moving at the same speed as the
+unloaded truck.
+
+On the axes below, sketch the result of applying the same force for the same
+amount of time. After doing that, answer the questions about this situation
+below the sketch. Feel free to use the simulator from the pre-lab to help make
+the sketch.
 
 \hspace{2in}
 
 ![Sketch loaded and empty cart motion here](lab02-c-graph-axes.png)
+
+\eject
+
+### Answer these questions about the graphs you sketched:
+
++ What is correct about what Liz said? What, if anything, is incorrect? Explain. \vspace{1in}
++ What is correct about what Peter said? What, if anything, is incorrect? Explain.\vspace{1in}
+
+In the B-level part of the lab, you will use a cart, track and pulley to model the situation on the first page.
+
+![Rough sketch of experimental setup](cart-pulley.png){ width=2in }
+
+
+### Answer this question about the B-level experiment
+
++ To model the situation of the unloaded truck vs the loaded truck, which mass should you change in the B-level experiment, the mass on the cart or the hanging mass? Explain.
+
 
 \eject
 
