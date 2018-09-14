@@ -12,3 +12,5 @@ and is launched in the code with an initial velocity of 50 m/s.
 of the rocket (the amount of time the rocket is in the air), with no air resistance in the animation. **Show your work.** *You will use this to check your code calculations.*
 \vspace{4in}
 2. Explain why the mass of the rocket does not matter in the determination of the time of flight if there is no air resistance.
+\vspace{2in}
+3. What is the maximum height the rocket will reach? *Hint*: What is the velocity of the rocket at its highest point?
