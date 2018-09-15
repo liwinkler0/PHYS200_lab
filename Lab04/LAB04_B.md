@@ -1,72 +1,77 @@
-**LAB 4: Modeling Non-constant Forces**
+# LAB 4 Modeling the Motion of a Rocket 2: Realistic model
 
-**Objectives:**
+## B level: Modeling Non-constant Forces
 
+### Objectives
 -   Learn how to model a force that depends on time
-
 -   Learn how to model a force that depends on velocity
-
 -   Use sum of forces acting on a system to model its motion
 
 **Statement of the problem:** You are creating a simulation program in
-VPython that will help you determine the flight characteristics of a
-model rocket prior to building and launching the rocket. You would like
-to include in the simulation gravity, thrust of the rocket motor, and
-air drag.
+VPython/Glowscript that will help you determine the flight
+characteristics of a model rocket prior to building and launching the
+rocket. You would like to include in the simulation gravity, thrust of
+the rocket motor, and air drag.
 
-**THE DRAG EQUATION FOR DRAG FORCE: **
+**EQUATION FOR DRAG FORCE:**
 
-$ \overrightarrow{\mathbf{F}_{\mathbf{D}}}\mathbf{= -}\frac{\mathbf{\text{CAρ}}}{\mathbf{2}}\left| \overrightarrow{\mathbf{v}} \right|^{\mathbf{2}}\widehat{\mathbf{v}}$
-
-**EQ. 1**
+$${\overrightarrow{F}}_{D} = - \frac{\text{CA}\rho}{2}\left| \overrightarrow{v} \right|^{2}\widehat{v}$$
 
 where C is a dimensionless number called the "coefficient of drag", A is
-the cross-sectional area of the object in flight, ρ is the density of
-the fluid (here air) through which the object moves and **v** is the
+the cross-sectional area of the object in flight, $\rho$ is the density of
+the fluid (here air) through which the object moves and $\vec{v}$ is the
 velocity vector of the object. You think this equation is pretty
 straightforward, except you cannot seem to find a single value for the C
 coefficient. Most sources say this coefficient is close to 1, but
 depends on the shape of the flying object.
+
+There are two very useful functions in vpython that will help in
+calculating the drag force:
+
+-   `mag(my_vector)` calculates the magnitude of the vector `my_vector`,
+    and
+
+-   `norm(my_vector)` calculates the unit vector for `my_vector`.
 
 **THE THRUST CURVE FOR THE ROCKET ENGINE IS INCLUUDED IN THE LAB 4
 MODULE AS A SEPARATE DOCUMENT ON D2L.**
 
 **B-level**
 
--   VPython code called "rocket2.py" is available for you to start from.
-    This code has the F\_engine of the rocket motor built in, but has
-    some bugs and some missing pieces. First, debug the program.
-
--   You will need to implement a number of things in the code to get it
-    to model your rocket. It is probably easiest to implement gravity
-    and the engine thrust forces first. (NOTE: the F\_engine is coded as
-    a list. Do not change the time in the burn loop or the list cannot
-    work!) Make sure these make the rocket behave properly.
-
+-   VPython code called "lab04rocket.py" is available for you to start
+    from. This code has the F\_engine of the rocket motor built in, but
+    has some bugs and some missing pieces. First, debug the program so
+    that it runs.
+-   Next, make sure all of the forces except air drag are included
+    properly (do *not* start on air resistance yet). Use the position
+    and momentum graphs of the rocket's motion to explain how you know
+    the code is working correctly. You should use the information you have
+    from Lab 03, in which you spent time thinking about this specific
+    case.
 -   Air drag may be the most difficult force to implement in the code.
-    Talk through with the instructor, a lab TA, or a group nearby to
-    make sure you understand the equation in EQ. 1 before trying to code
-    it in.
-
--   Once air drag is implemented in VPython, be sure to plot the
-    momentum.y and position.y of the rocket in its flight. Lines to plot
-    these are included in the code---you merely need to uncomment them.
-
+    Talk through with the instructor, a lab learning assistant, or a
+    group nearby to make sure you understand the equation in EQ. 1
+    before trying to code it in.
+-   Add air drag to the code. Make sure the code output seems
+    reasonable. One way to do that is to change one or more of the
+    parameters (like *C*) that go into the air drag and see whether the
+    graphs of position and momentum change in the way you would expect.
 -   Determine the flight time of the rocket and make sure it is
-    reasonable. Note that you will be comparing real rocket flight data
-    to what the code predicts in the next lab!
+    reasonable.
+-   Note that you will be comparing real rocket flight data to what the
+    code predicts in the next lab!
 
-**TO TURN IN:**
+**What to include in your write-up:**
 
--   A Word document including all participants' names.
-
--   A link to your Public working rocket program.
-
--   Screen shots showing the momentum and position of the rocket in
-    time.
-
--   Indicate on your momentum graph the time when the burn loop stopped
-    (engine ran out of fuel).
-
--   Include statements that indicate *how you know* your code is working
-    properly.
+-   Names of the people you worked with and what role they played.
+-   A public link to your glowscript code.
+-   Explain how you know the code was working before you added air
+    resistance. That explanation should include a screen shot of you
+    whatever graphs you use to explain/justify your answer (and your
+    answer should refer in some quantitative way to at least one graph).
+-   Explain how you implemented air resistance and how you checked
+    whether your implementation was correct. Include in your explanation
+    one or more graphs of the motion with air resistance and describe
+    how the graph(s) support your conclusion that you did air drag
+    correctly.
+-   Report the time of flight you obtained for the rocket.
