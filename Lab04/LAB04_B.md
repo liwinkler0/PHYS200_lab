@@ -1,5 +1,4 @@
-# LAB 4 Modeling the Motion of a Rocket 2: Realistic model
-
+# LAB 4 Realistic model of a rocket motion
 ## B level: Modeling Non-constant Forces
 
 ### Objectives
@@ -13,7 +12,7 @@ characteristics of a model rocket prior to building and launching the
 rocket. You would like to include in the simulation gravity, thrust of
 the rocket motor, and air drag.
 
-**EQUATION FOR DRAG FORCE:**
+**Equation for drag force**
 
 $${\overrightarrow{F}}_{D} = - \frac{\text{CA}\rho}{2}\left| \overrightarrow{v} \right|^{2}\widehat{v}$$
 
@@ -31,7 +30,7 @@ calculating the drag force:
 -   `mag(my_vector)` calculates the magnitude of the vector `my_vector`,
     and
 
--   `norm(my_vector)` calculates the unit vector for `my_vector`.
+-   `norm(my_vector)` calculates the unit vector in the direction of `my_vector`.
 
 **THE THRUST CURVE FOR THE ROCKET ENGINE IS INCLUUDED IN THE LAB 4
 MODULE AS A SEPARATE DOCUMENT ON D2L.**
@@ -53,11 +52,17 @@ MODULE AS A SEPARATE DOCUMENT ON D2L.**
     group nearby to make sure you understand the equation in EQ. 1
     before trying to code it in.
 -   Add air drag to the code. Make sure the code output seems
-    reasonable. One way to do that is to change one or more of the
+    reasonable by checking a limiting case. One way to do that is to change one or more of the
     parameters (like *C*) that go into the air drag and see whether the
     graphs of position and momentum change in the way you would expect.
 -   Determine the flight time of the rocket and make sure it is
     reasonable.
+-   Make the drag coefficient or area large enough that the rocket clearly
+    reaches terminal velocity. Compare the terminal velocity from your code
+    with the formula you came up with in the last part of the C level.
+-   Draw a design (it can be a simple sketch) for the rocket you will build. You
+    will be given a tube and a nos cone; you mainly need to decide how many
+    fins to put on the rocket and what shape to make them.
 -   Note that you will be comparing real rocket flight data to what the
     code predicts in the next lab!
 
@@ -75,3 +80,4 @@ MODULE AS A SEPARATE DOCUMENT ON D2L.**
     how the graph(s) support your conclusion that you did air drag
     correctly.
 -   Report the time of flight you obtained for the rocket.
+-   Include a drawing of your design for the rocket you will build.
