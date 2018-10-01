@@ -51,15 +51,15 @@ if two forces are equal their lengths should be the same).
     becomes as large as the gravitational force? Work out how fast the rocket is moving
     if the drag force is equal to the gravitational force; your answer here should be a
     *formula* that relates this speed, called the terminal velocity, to the rocket mass,
-    the variables that appear in the drag force equation, and the strength of the
-    gravitational field near the Earth's surface, $g$.
+    the variables $C$, $A$ and $\rho$ that appear in the drag force equation, and the strength
+    of the gravitational field near the Earth's surface, $g$.
 \vspace{1.5in}
 
-**EQUATION FOR DRAG FORCE:**
+<!-- **EQUATION FOR DRAG FORCE:**
 
 $${\overrightarrow{F}}_{D} = - \frac{\text{CA}\rho}{2}\left| \overrightarrow{v} \right|^{2}\widehat{v}$$
 
 where C is a dimensionless number called the "coefficient of drag", A is
 the cross-sectional area of the object in flight, $\rho$ is the density of
 the fluid (here air) through which the object moves and $\vec{v}$ is the
-velocity vector of the object.
+velocity vector of the object. -->

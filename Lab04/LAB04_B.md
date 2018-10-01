@@ -55,13 +55,13 @@ MODULE AS A SEPARATE DOCUMENT ON D2L.**
     reasonable by checking a limiting case. One way to do that is to change one or more of the
     parameters (like *C*) that go into the air drag and see whether the
     graphs of position and momentum change in the way you would expect.
--   Determine the flight time of the rocket and make sure it is
+-   Use your code to determine the flight time of the rocket and make sure it is
     reasonable.
 -   Make the drag coefficient or area large enough that the rocket clearly
     reaches terminal velocity. Compare the terminal velocity from your code
     with the formula you came up with in the last part of the C level.
 -   Draw a design (it can be a simple sketch) for the rocket you will build. You
-    will be given a tube and a nos cone; you mainly need to decide how many
+    will be given a tube and a nose cone; you mainly need to decide how many
     fins to put on the rocket and what shape to make them.
 -   Note that you will be comparing real rocket flight data to what the
     code predicts in the next lab!
@@ -78,6 +78,7 @@ MODULE AS A SEPARATE DOCUMENT ON D2L.**
     whether your implementation was correct. Include in your explanation
     one or more graphs of the motion with air resistance and describe
     how the graph(s) support your conclusion that you did air drag
-    correctly.
+    correctly. Also include a comparison of the terminal velocity from
+    your code to the terminal velocity you calculated in the C level.
 -   Report the time of flight you obtained for the rocket.
 -   Include a drawing of your design for the rocket you will build.
