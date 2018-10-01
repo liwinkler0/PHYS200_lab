@@ -1,70 +1,86 @@
-> **LAB 2 B: Force and Momentum**
->
-> **OBJECTIVES**
->
-> *•* Learn how to use computer-based probes to measure force and
-> momentum
->
-> *•* Find correlations between different variables using graphing
-> methods
+# LAB 2 B: Force and Momentum
 
-> *•*   Become more familiar with the Momentum Principle
+## OBJECTIVES
 
-> ![](./Expt_setup.png){width="4.697916666666667in"
-> height="1.8138888888888889in"}
++ Learn how to use computer-based probes to measure force and
+momentum
++ Find correlations between different variables using graphing methods
++ Become more familiar with the Momentum Principle
 
-**Equipment:**
+![Experimental setup](./Expt_setup.png){height="1.5in"}
 
--   Motion sensor
+## Equipment:
 
--   Mounting bracket for motion sensor
+- Motion sensor
+- Mounting bracket for motion sensor
+- Force probe
+- Mounting rod to attach force probe to cart
+- Cart and track
+- Pulley with string
+- Hanging mass set
 
--   Force probe
+**Set-up (helpful video is available under the Lab 2 module in D2L):**
 
--   Mounting rod to mount force probe on cart
+- Measure the mass of the cart and the mass of the force probe
+  (balance available in corner of room).
+- Set up the track, motion detector, cart and force probe as shown in
+  the video.
+- Check the force sensor setting. The force sensor has two settings on
+  it. Be sure you are using the correct one in your experiment. The force
+  applied by the hanging mass is approximately $F_{hang} = m_{hang} g$, where
+  g=9.8 m/s$^2$.
+- Practice taking data a couple times before starting the experiments.
+- Equipment/software notes are included in this module if you need
+  further detail.
 
--   Cart and track
+\eject
 
--   Pulley with string
+## B-level experiments
 
--   Hanging mass set
+1.  Basic measurements and test of your vpython model.
+    a.  Take one run of data to measure the force applied to the cart
+        and the final velocity of the cart. Note: your initial and final
+        points might not be the beginning/end of your graph. Focus just
+        on the part of the motion when the cart if being pulled by a
+        constant force.
+    b.  Get the vpython code from the D2L link, and edit it so the
+        applied force and mass of the cart/probe match your experiment,
+        and the start and ending time for the motion match your experiment.
+    c.  Compare the velocity calculated from vpython with the velocity
+        you measured.
+2.  Answering the C-level question.
+    a.  Which ONE of the experiments lets you address the
+        question Liz and Peter were discussing?
+        i.  How do velocity, and momentum change when you have a
+            constant weight pulling a variable cart mass if you apply
+            the force for the same amount of time?
+        i. How do velocity and momentum change when you have a constant
+            cart mass being pulled by a variable pulley weight?
+    a.  Carry out the experiment. You will need to
+        i. Do a run for at least 5 different masses.
+        i. Instead of trying to take data for exactly the same amount
+            of time in each case, record the rate of change (slope) of
+            the velocity.
+        i.  Make graphs in logger pro of the
+            1.  rate of change of velocity as a function of mass
+            2.  rate of change of momentum as a function of mass.
+        i. Fit the theoretical relationship  between rate of change of *momentum*
+           of the cart and the mass of the cart to your data.
+        i. Fit the theoretical relationship  between rate of change of *velocity*
+           of the cart and the mass of the cart to your data.
 
-**Statement of the problem:** Are force and momentum change directly
-proportional to one another? How are force and the mass of the forced
-object related?
+**What to include in your write-up:**
 
-**Set-up Notes: (Helpful videos are available under the Lab 2 module.)**
-
--   Use a bracket to securely attach the motion sensor to one end of the
-    track.
-
--   Practice capturing motion with the sensor before attempting any
-    experiment.
-
--   Practice using the LoggerPro software before saving any experiment.
-
--   The Force sensor has two settings on it. Be sure you are using the
-    correct one in your experiment. Recall that Force in Newtons= mass
-    in kg \* g (g=9.8 m/s^2^)
-
--   Again, practice collecting force data with the force probe before
-    attempting any experiment.
-
-**Basic B-level experiment. Do one of the two bullet items as your
-B-level experiment. The other bullet item will be your A-level Advanced
-experiment. **
-
--   How do position, velocity, and momentum change in time when you have
-    a constant weight pulling a variable cart mass? (Do a separate trial
-    for each different mass you place on the cart.)
-
--   How do position, velocity and momentum change in time when you have
-    a constant cart mass being pulled by a variable pulley weight? (Do a
-    separate trial for each different mass you place on the pulley.)
-
-**Note: You need to quantify the relationships with a GRAPH from
-LoggerPro. Quantifying the relationship means you fit the data points to
-a mathematical function, such as a straight line, parabola, etc. Then
-extract a useful number from that fit, such as a slope from a linear
-fit. Always include the uncertainty on the fit, or the +/-. The
-uncertainty indicates the quality of your data.**
+-   Compare the final velocity in your first run to the result from the
+    vpython program.
+-   Include at least one example of graphs showing force, velocity and
+    position as a function of time. It is ok if that graphs has runs for
+    several different masses.
+-   Include graphs showing how momentum change and velocity change
+    depend on mass.
+    *Note: You need to quantify the relationships with a GRAPH from
+    LoggerPro. Quantifying the relationship means you fit the data
+    points to a mathematical function, such as a straight line,
+    parabola, etc. Then extract a useful number from that fit, such as a
+    slope from a linear fit. Always include the uncertainty on the fit.*
+-   Use those graphs to explain whether Liz or Peter is correct.
