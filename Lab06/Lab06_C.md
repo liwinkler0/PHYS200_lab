@@ -15,7 +15,7 @@ You are going to try to fit the oscillating function to a curve given by
 the following mathematical relationship:
 
 $$
-y(t)=A sin(B\*t + C) +D
+y(t)=A \sin(B\*t + C) +D
 $$
 
 Notice that there are 4 constants in this function. You will be asked how each
@@ -24,16 +24,16 @@ affects the shape of the function.
 *HINT*: Look at the glowscript program in D2L to understand how changing
 each of the parameters below affects the curve.
 
-![Graph of y vs the for hanging mass](y-t-graph.png)
+![Graph of y vs t for hanging mass](y-t-graph.png)
 
-1. How would changing the value of A for the curve below change the
+1. How would changing the value of A for the curve in the graph change the
 curve? Explain. \vspace{0.5in}
-1. How would changing the value of B for the curve below change the
+1. How would changing the value of B for the curve in the graph change the
 curve? Explain.  \vspace{0.5in}
-1. What is the value of B for the curve below? Explain.  \vspace{0.5in}
-1. How would changing the value of C for the curve below change the
+1. What is the value of B for the curve in the graph? Explain.  \vspace{0.5in}
+1. How would changing the value of C for the curve in the graph change the
 curve? Explain.  \vspace{0.5in}
-1. How would changing the value of D for the curve below change the
+1. How would changing the value of D for the curve in the graph change the
 curve? Explain. \vspace{0.5in}
 
 
